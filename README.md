@@ -28,6 +28,7 @@ Il modello è strutturato come segue:
 
 ---
 
+
 ## 📂 Struttura del Progetto
 
 
